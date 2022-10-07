@@ -108,6 +108,11 @@ p{
         align-items: center;
     }
 
+    .hero{
+        display: flex;
+        flex-direction: row;
+    }
+
     .social-links{
         display: flex;
         flex-direction: column;

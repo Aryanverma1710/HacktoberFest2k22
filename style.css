@@ -42,11 +42,6 @@ section > h1{
     width: 170px;
 }
 
-.hero .container{
-    display: flex;
-    flex-direction: column;
-}
-
 .container{
     font-size: var(--heavy-font);
 }

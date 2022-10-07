@@ -113,6 +113,11 @@ p{
         flex-direction: row;
     }
 
+    .hero .container{
+        display: flex;
+        flex-direction: column;
+    }
+
     .social-links{
         display: flex;
         flex-direction: column;
